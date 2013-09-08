@@ -1,0 +1,66 @@
+body { 
+    color                 :                       ;
+    background-color      :                       ; 
+  }
+
+hr{
+    color                 :                       ;
+    width                 :                    %  ;
+
+  }
+
+h1{
+    font-family           :                       ;
+    font-size             :                       ;
+    font-weight           :                       ;
+    color                 :                       ;
+  }
+
+a:active {
+    color                 :                       ;
+    background            :                       ;
+    font-family           :   Helvetica, Arial    ; 
+  }  
+
+a:visited {
+    color                 :                       ;
+    background            :                       ;
+    font-family           :   Helvetica, Arial    ;
+  }  
+
+a:hover{
+    color                 :                       ;
+    background            :                       ;
+    font-family           :   Helvetica, Arial    ;
+  }
+
+text {
+    font-family           :                       ;
+    font-size             :                    px ;
+    font-style            :                       ;
+    font-weight           :                       ;
+    color                 :                       ;
+  }
+
+TABLE {
+    color                 :                       ;
+    font-family           :                       ;
+    font-size             :                       ;                                     
+    font-style            :                       ;
+  }
+
+ul{
+    margin                :                    px ;
+    padding               :                    px ;
+  }
+ 
+ul li{
+    list-style            :                       ;
+    margin                :                    px ;
+    padding               :                    px ;
+  }
+
+#map {
+     height: 800px ;
+      
+     }

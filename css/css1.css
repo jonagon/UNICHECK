@@ -1,0 +1,68 @@
+<style type="text/css"> 
+<!-- body 
+body { 
+    color                 :                       ;
+    background-color      :                       ; 
+  }
+
+hr{
+    color                 :                       ;
+    width                 :                    %  ;
+
+  }
+
+h1{
+    font-family           : Western.Monospace     ;              
+    font-size             :         100        px ;
+    font-style            :         oblique       ;
+    font-weight           :         bolder        ;
+    color                 :         #CC3333       ;
+  }
+
+a:active {
+    color                 :                       ;
+    background            :                       ;
+    font-family           :   Helvetica, Arial    ; 
+  }  
+
+a:visited {
+    color                 :                       ;
+    background            :                       ;
+    font-family           :   Helvetica, Arial    ;
+  }  
+
+a:hover{
+    color                 :                       ;
+    background            :                       ;
+    font-family           :   Helvetica, Arial    ;
+  }
+
+text {
+    font-family           : Western.Monospace     ;              
+    font-size             :         20         px ;
+    font-style            :                       ;
+    font-weight           :         bold          ;
+    color                 :         red           ;
+  }
+
+TABLE {
+    color                 :                       ;
+    font-family           :                       ;
+    font-size             :                       ;                                     
+    font-style            :                       ;
+  }
+
+ul{
+    margin                :                    px ;
+    padding               :                    px ;
+  }
+ 
+ul li{
+    list-style            :                       ;
+    margin                :                    px ;
+    padding               :                    px ;
+  }
+  
+ 
+--> 
+</style>
